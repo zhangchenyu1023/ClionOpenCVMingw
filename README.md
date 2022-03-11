@@ -8,7 +8,7 @@
 
    设置——构建、执行、部署——工具链
 
-   <img src="https://raw.githubusercontent.com/zhangchenyu1023/Pictures/main/1646900974729.png" alt="1646900974729" style="zoom:33%;" />
+   ![image-20220311085103567](https://gitee.com/zhangchenyu1023/Pictures/raw/master/img/image-20220311085103567.png)
 
 3. ## 安装Cmake
 
