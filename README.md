@@ -49,6 +49,7 @@
    - 勾选 `ENABLE_CXX11`
    - 不勾选 `WITH_IPP`
    - 不勾选 `ENABLE_PRECOMPILED_HEADERS`
+   - 可选择 `BUILD_opencv_python`
 
    点击 Configure，Generate 生成 Makefile
 
